@@ -2,7 +2,7 @@
 
 一个基于 UptimeRobot API 的在线状态面板，修改自 [uptime-status](https://github.com/yb/uptime-status)  
 
-![IMSYY-站点监测.png](https://s2.loli.net/2022/07/21/Bq9sNMiT7DmvoLd.png)
+![站点监测.png]([https://gitlab.com/xiaowansm/img/-/raw/main/pictures/2022/12/27_20_12_55_202212272012252.png]
 
 ## 修改内容
 
