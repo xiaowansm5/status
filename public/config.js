@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://w2aa.ga/'
+      url: 'https://wwang.pw/'
     },
     {
       text: '博客',
-      url: 'https://blog.w2aa.ga/'
+      url: 'https://blog.wwang.pw/'
     },
     {
       text: 'GitHub',
